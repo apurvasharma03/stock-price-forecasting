@@ -2,6 +2,8 @@
 
 ![Tech Stack](https://img.shields.io/badge/Built%20With-Python%2C%20Pandas%2C%20Scikit--Learn%2C%20Quandl%2C%20Alpha%20Vantage-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/apurvasharma03/stock-price-forecasting)
+![R² Accuracy](https://img.shields.io/badge/Model%20Accuracy-R²%20~98%25-brightgreen)
+
 
 
 This project analyzes and forecasts financial time series data using machine learning. It leverages APIs (Quandl, Alpha Vantage) for real-time and historical data, explores temporal patterns (autocorrelation, rolling averages), and applies **Linear Regression** models for short-term price prediction.
